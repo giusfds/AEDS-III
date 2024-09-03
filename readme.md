@@ -13,5 +13,6 @@
 | **Exercícios de fixação 01**   | 1        |
 | **Exercícios de fixação 02**   | 0.75     |
 | **Exercícios de fixação 03**   | 1        |
-| **Nota final**                 | 2,75     |
+| **Exercícios de fixação 03**   | 1        |
+| **Nota final**                 | 3,75     |
 |**Total de Pontos**             | 100      |
