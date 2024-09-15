@@ -12,11 +12,11 @@
 	|	|	|	|_ Definida de forma exclusiva  
 	|	|	|	|	|_ Não depende fixamente da ordem numérica, e sim da forma que foram ordenados  
 	|	|	|	|	|_ São chaves IMUTÁVEIS, já que serão usadas sempre  
-	|	|	|		|_ Não recomendados:  
-	|	|	|		|_ Nome  
-	|	|	|		|_ Email  
-	|	|	|		|_ Telefone  
-	|	|	|		|_ CPF  
+	|	|	|	|	|_ Não recomendados:  
+	|	|	|	|	|_ Nome  
+	|	|	|	|	|_ Email  
+	|	|	|	|	|_ Telefone  
+	|	|	|	|	|_ CPF  
 	|	|	|	|_ Pode não ter ordem  
 	|	|	|	|_ Acesso em ordem que eles foram gravados no setor do disco  
 	|  
