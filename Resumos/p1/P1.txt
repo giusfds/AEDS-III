@@ -79,3 +79,5 @@
 	|	|_ O algoritmo de intercalações balanceadas de M caminhos foi estudado com detalhes  
 	|	|_ Outros algoritmos de ordenação externa existem e há maneiras de melhorar a ordenação no próprio algoritmo estudado  
 	|	|_ O que foi visto é suficiente para os objetivos da disciplina
+
+- Arquivos indexados
