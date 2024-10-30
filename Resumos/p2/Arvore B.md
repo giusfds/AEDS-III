@@ -62,4 +62,5 @@ ETAPA 3 - Fusão
 
 ETAPA 4 - Propagação    
 6. Se, após a fusão, a página pai ficar com menos de 50 de ocupação, voltar à ETAPA 2 considerando essa página.
+
 7. As fusões podem ser propagadas até a raiz se necessário. Se a raiz tiver só dois filhos que precisarem ser fundidos, então a árvore terá sua altura reduzida.
